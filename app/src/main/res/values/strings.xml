@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Questions-->
+    <string name="question_1">Q1. Grand Central Terminal, Park Avenue, New York is the world\'s?</string>
+    <string name="question_2">Q2. Entomology is the science that studies?</string>
+    <string name="question_3">Q3. Eritrea, which became the 182nd member of the UN in 1993, is in the continent of?</string>
+    <string name="question_4">Q4. Garampani sanctuary is located at?</string>
+    <string name="question_5">Q5. For which of the following disciplines is Nobel Prize awarded?</string>
+    <string name="question_6">Q6. Hitler party which came into power in 1933 is known as?</string>
+
+    <string name="option_1_q_1">largest railway station</string>
+    <string name="option_2_q_1">highest railway station</string>
+    <string name="option_3_q_1">longest railway station</string>
+    <string name="option_4_q_1">None of the above</string>
+
+    <string name="option_1_q_2">Behavior of human beings</string>
+    <string name="option_2_q_2">Insects</string>
+    <string name="option_3_q_2">The origin and history of technical and scientific terms</string>
+    <string name="option_4_q_2">The formation of rocks</string>
+
+    <string name="option_1_q_3">Asia</string>
+    <string name="option_2_q_3">Africa</string>
+    <string name="option_3_q_3">Europe</string>
+    <string name="option_4_q_3">Australia</string>
+
+    <string name="option_1_q_4">Junagarh, Gujarat</string>
+    <string name="option_2_q_4">Diphu, Assam</string>
+    <string name="option_3_q_4">Kohima, Nagaland</string>
+    <string name="option_4_q_4">Gangtok, Sikkim</string>
+
+    <string name="option_1_q_5">Physics and Chemistry</string>
+    <string name="option_2_q_5">Physiology or Medicine</string>
+    <string name="option_3_q_5">Literature, Peace and Economics</string>
+    <string name="option_4_q_5">All of the above</string>
+
+    <string name="option_1_q_6">Labour Party</string>
+    <string name="option_2_q_6">Ku-Klux-Klan</string>
+    <string name="option_3_q_6">Nazi Party</string>
+    <string name="option_4_q_6">Democratic Party</string>
+
+
+    <string name="score">Submit</string>
+    <string name="exit">Exit</string>
+</resources>
