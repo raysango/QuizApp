@@ -9,6 +9,8 @@
     <string name="question_4">Q4. Garampani sanctuary is located at?</string>
     <string name="question_5">Q5. For which of the following disciplines is Nobel Prize awarded?</string>
     <string name="question_6">Q6. Hitler party which came into power in 1933 is known as?</string>
+    <string name="question_7">Q7. Which of these tennis players completed the career Grand Slam?</string>
+    <string name="question_8">Q8. The Asian Games were held in Delhi for the first time in? </string>
 
     <string name="option_1_q_1">largest railway station</string>
     <string name="option_2_q_1">highest railway station</string>
@@ -40,7 +42,14 @@
     <string name="option_3_q_6">Nazi Party</string>
     <string name="option_4_q_6">Democratic Party</string>
 
+    <string name="option_1_q_7">James Blake</string>
+    <string name="option_2_q_7">Roger Federer</string>
+    <string name="option_3_q_7">Rod Laver</string>
+    <string name="option_4_q_7">David Nalbandian</string>
 
+    <string name="q8_answer">1951</string>
+
+    <string name="hint_text">Enter a Year</string>
     <string name="score">Submit</string>
     <string name="exit">Exit</string>
 </resources>

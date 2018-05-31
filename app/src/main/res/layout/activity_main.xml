@@ -305,6 +305,67 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:textAppearanceSmall"/>
+
+            <View
+                style="@style/SeparaterTheme"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/view_height"/>
+
+            <TextView
+                android:id="@+id/q7_textview"
+                style="@style/QuestionAppearance"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/question_7"/>
+
+            <CheckBox
+                android:id="@+id/chkbox_q7_opt1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/option_1_q_7"/>
+            <CheckBox
+                android:id="@+id/chkbox_q7_opt2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/option_2_q_7"/>
+            <CheckBox
+                android:id="@+id/chkbox_q7_opt3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/option_3_q_7"/>
+            <CheckBox
+                android:id="@+id/chkbox_q7_opt4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/option_4_q_7"/>
+            <TextView
+                android:id="@+id/q7_answer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:textAppearanceSmall"/>
+            <View
+                style="@style/SeparaterTheme"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/view_height"/>
+
+            <TextView
+                android:id="@+id/q8_textview"
+                style="@style/QuestionAppearance"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/question_8"/>
+
+            <EditText
+                android:id="@+id/q8_input"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/hint_text"
+                android:maxLines="1"/>
+            <TextView
+                android:id="@+id/q8_answer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:textAppearanceSmall"/>
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
